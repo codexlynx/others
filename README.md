@@ -14,13 +14,20 @@ This repo is subject under the following license:
 
  More Info: [Here](https://creativecommons.org/licenses/by-sa/3.0/ "Legal Description")
 
+### Vulnerabilities
+
+* __Shenzhen C-Data CD7201__: Multiple Vulnerabilities (Authentication Bypass, Command Injection, Cross-Site-Scripting).
+
+  * [Packet Storm](https://packetstormsecurity.com/files/143312/Shenzhen-C-Data-CD7201-Command-Injection-Cross-Site-Scripting.html)
+  * [0day.today](http://0day.today/exploits/28109)
+
 ### Patches
 
-* __PfSense Developer Shell "playback listpkg"__: 
-This is a functionality bug, when you run ```pfSsh.php playback listpkg```. 
+* __PfSense Developer Shell "playback listpkg"__:
+This is a functionality bug, when you run ```pfSsh.php playback listpkg```.
 
 	* The bug:
-	
+
 		 ![](https://cloud.githubusercontent.com/assets/12601189/15285101/36620e36-1b4d-11e6-94c4-a3d1259cbad8.jpeg)
 
 	* How to patch:
@@ -32,4 +39,3 @@ This repo was created by: __@codexlynx__.
 
 * Twitter: [https://twitter.com/codexlynx](https://twitter.com/codexlynx)
 * GitHub: [https://github.com/codexlynx](https://github.com/codexlynx)
-
