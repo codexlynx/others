@@ -19,7 +19,12 @@ This repo is subject under the following license:
 * __Shenzhen C-Data CD7201__: Multiple Vulnerabilities (Authentication Bypass, Command Injection, Cross-Site-Scripting).
 
   * [Packet Storm](https://packetstormsecurity.com/files/143312/Shenzhen-C-Data-CD7201-Command-Injection-Cross-Site-Scripting.html)
-  * [0day.today](http://0day.today/exploits/28109)
+  * [0day.today](https://0day.today/exploits/28109)
+
+* __phpVirtualBox__: Cross Site Request Forgery / Stored Cross-Site-Scripting.
+
+  * [Packet Storm](https://packetstormsecurity.com/files/147570/phpVirtualBox-5.2-Cross-Site-Request-Forgery-Cross-Site-Scripting.html)
+  * [0day.today](https://0day.today/exploits/30333)
 
 ### Patches
 
