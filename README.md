@@ -26,6 +26,10 @@ This repo is subject under the following license:
   * [Packet Storm](https://packetstormsecurity.com/files/147570/phpVirtualBox-5.2-Cross-Site-Request-Forgery-Cross-Site-Scripting.html)
   * [0day.today](https://0day.today/exploits/30333)
 
+* __Kache Server__: Cross Protocol Request Forgery.
+
+  * [Packet Storm](https://packetstormsecurity.com/files/151941/Kache-Cross-Protocol-Request-Forgery.html)
+
 ### About
 This repo was created by: __@codexlynx__.
 
