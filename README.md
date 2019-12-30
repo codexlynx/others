@@ -5,14 +5,8 @@ Here you can found, diferent things.
 
 ### Disclaimer
 
-* __License__:
-This repo is subject under the following license:
-
- >Creative Commons Attribution-ShareAlike 3.0
-
- ![](https://licensebuttons.net/l/by-sa/3.0/88x31.png "Creative Commons")
-
- More Info: [Here](https://creativecommons.org/licenses/by-sa/3.0/ "Legal Description")
+* __Legal__:
+This repository is only for __educational__ purposes and __ethical__ hacking. Use it at your own responsibility. Damages or legal problems caused are the responsibility of the user.
 
 ### Vulnerabilities
 
@@ -29,6 +23,16 @@ This repo is subject under the following license:
 * __Kache Server__: Cross Protocol Request Forgery.
 
   * [Packet Storm](https://packetstormsecurity.com/files/151941/Kache-Cross-Protocol-Request-Forgery.html)
+
+### Rubber Ducky
+##### Payloads:
+
+
+| Payload 1 | |
+| :------------------------ | :------------------------------- | 
+| Function:                 | Internet Denial of Service (DOS) |
+| Operative System:         | Windows 7/8 (Win10 not tested)   |
+| Approximate running time: | 20 seg                           |
 
 ### About
 This repo was created by: __@codexlynx__.
